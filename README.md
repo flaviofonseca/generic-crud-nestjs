@@ -8,8 +8,11 @@
 [linux-url]: https://travis-ci.org/nestjs/nest
   
   <p align="center">A progressive <a href="http://nodejs.org" target="blank">Node.js</a> framework for building efficient and scalable server-side applications, heavily inspired by <a href="https://angular.io" target="blank">Angular</a>.</p>
-  Este projeto e um modelo de utilização de generics com nestjs, a implementação de exemplo foi feita na camada de services,
+  <p align="center">
+  <strong>Este projeto e um modelo de utilização de generics com nestjs, a implementação de exemplo foi feita na camada de services,
   mas pode ser utilizada em qualquer outra camada, como controller ou repository.
+    </strong>
+  </p>
     <p align="center">
 <a href="https://www.npmjs.com/~nestjscore"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
 <a href="https://www.npmjs.com/~nestjscore"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
